@@ -1,3 +1,4 @@
+today's date is feb 1 
 clear all
 capture log close
 *log using "Y:\Source_data\agincourt_hdss_nov_29_2017\data_checks.txt", text replace
